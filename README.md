@@ -1,13 +1,5 @@
 # Juntos Até o CCNA
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
-
-![GitHub repo size](https://img.shields.io/github/repo-size/weslleycsil/ccna-200-301/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/weslleycsil/ccna-200-301/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/weslleycsil/ccna-200-301/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/weslleycsil/ccna-200-301/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/weslleycsil/ccna-200-301/README-template?style=for-the-badge)
-
 <img src="ccna_badge.png" alt="CCNA 200-301">
 
 > O projeto consiste em disponibilizar gratuitamente resumos e materiais de estudo para a Certificação Cisco CCNA 200-301
@@ -33,9 +25,7 @@ Projects: ⤵️
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+* Você leu `https://infra.expert/juntos-ate-o-ccna/`.
 
 
 ## 📫 Contribuindo para <nome_do_projeto>
